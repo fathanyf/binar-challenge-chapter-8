@@ -1,0 +1,22 @@
+{
+  "players": [
+    {
+      "id": "c4be475a-f49-47d2-a75f-48f8d6b9292",
+      "username": "jono",
+      "email": "jono1804@gmail.com",
+      "experience": "20"
+    },
+    {
+      "id": "39ef87c8-b912-4cc1-8d89-7bd6a324c2e2",
+      "username": "admin123",
+      "email": "admin123@gmail.com",
+      "experience": "100"
+    },
+    {
+      "id": "451ce1a8-83ad-4f42-a0e5-890325a434a7",
+      "username": "test",
+      "email": "test456@gmail.com",
+      "experience": "100"
+    }
+  ]
+}
